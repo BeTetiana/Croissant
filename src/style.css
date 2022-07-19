@@ -14,3 +14,17 @@ p {
 li {
   color: rgb(235, 6, 178);
 }
+img {
+  display: block;
+  border-radius: 4px;
+}
+footer {
+  display: block;
+  margin: 20px 10px;
+
+  text-align: center;
+}
+footer a {
+  margin: 20px;
+  color: green;
+}
